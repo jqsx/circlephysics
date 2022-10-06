@@ -14,6 +14,7 @@
     height: 1000px;
     top: 25%;
     left: 25%;
+    filter: blur(5px);
     border-radius: 50%;
     background: black;
     position: absolute;
